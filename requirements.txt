@@ -7,7 +7,7 @@
 # what should be updated.
 
 PyYAML>=6.0
-docker=6.1
+docker=6.1.2
 dockerfile-parse~=2.0
 requests~=2.31
 stevedore>=5.1
